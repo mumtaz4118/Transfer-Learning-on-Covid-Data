@@ -4,8 +4,7 @@
 
 ## Introduction
 
-This study will provide a comparison between two ways of customizing a pre-trained model using transfer learning approach by fine-tuning and feature extraction, 
-thus will show an effective way of using pre-trained models for classifying between COVID-19, Pneumonia, and Healthy images.   It is originality comes from this 
+This study will provide a comparison between two ways of customizing a pre-trained model using transfer learning approach by fine-tuning and feature extraction, thus will show an effective way of using pre-trained models for classifying between COVID-19, Pneumonia, and Healthy images.   It is originality comes from this 
 method comparison, in literature people tend to compare different pre-trained base models performance rather than methods.
 
 Why I would like to research about the usage of pre-trained models is, at the beginning of this kind of pandemics, we would have no data, and collecting data may 
@@ -104,6 +103,6 @@ Also, with the method that I wrote single super test method which you can see on
 
 ![alt text](table.png)
 
-Finally, the Grad-CAM technique has been used to visualize the regions of input that are ”essential” for predictions from these models or visual explanations using COVID-19 and Pneumonia chest X-ray. 
+Finally, the Grad-CAM technique has been used to visualize the regions of input that are ”essential” for predictions from these models or visual explanations using COVID-19 and Pneumonia chest X-ray..
 
 ![alt text](gradcamresults.png)
